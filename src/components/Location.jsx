@@ -14,7 +14,7 @@ export default function Location() {
             </h3>
             
             <p className="mt-2 text-stone-600 italic font-light">
-                Mukkorakkal, Kuttikkattoor
+                Parakkandi, Kuttikkattoor
             </p>
 
             <a 

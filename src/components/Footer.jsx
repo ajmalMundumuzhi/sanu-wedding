@@ -3,7 +3,7 @@ export default function Footer() {
         <section className="flex flex-col justify-center items-center">
             <div className="text-center">
                 <p className="text-lg md:text-2xl  font-medium m-6 md:mb-10">Sharing the happiness:</p>
-                <p className="text-lg md:text-2xl  font-medium m-6 md:mb-10">Hadiya, Javad and Family</p>
+                <p className="text-lg md:text-2xl  font-medium m-6 md:mb-10">Shaheela, Sullath, Safwa, and Family</p>
                 <p className="text-lg md:text-2xl  font-medium m-6 md:mb-10">Contact: </p>
                 <p className="text-lg md:text-2xl  font-bold m-6 md:mb-10 ">Phone: 9745167699</p>
                 <hr />

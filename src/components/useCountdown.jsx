@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const CountdownTimer = () => {
   // SETTING THE TARGET: Dec 19, 2025 at 6:00 PM
-const targetDate = new Date('2025-12-29T11:00:00').getTime();
+const targetDate = new Date('2025-12-29T11:30:00').getTime();
   
   const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
   const [isClient, setIsClient] = useState(false);

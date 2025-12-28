@@ -18,7 +18,7 @@ export default function Hero() {
             {/* Middle Section: Invitation Text (The grid you started) */}
             <div className="grid grid-cols-1 text-center mt-4 max-w-lg px-4">
                 <p className="text-lg italic text-stone-700">
-                    With immense pleasure, we invite you to the wedding reception of our beloved children.
+                    With immense pleasure, we invite you to the wedding reception of our beloved daughter.
                 </p>
             </div>
 

@@ -61,7 +61,7 @@ export default function Groom() {
             {/* Details */}
             <div className="text-stone-700 leading-relaxed font-medium opacity-90">
               <p>Grand D/O Late Mammad Koya Haji & Late Alavi Kutty Haji</p>
-              <p className="mt-2">Mehfil House, Olavanna, Calicut</p>
+              <p className="mt-2">Parakkandi(H), Paigottuppuram, Kuttikkattoor</p>
             </div>
           </div>
 

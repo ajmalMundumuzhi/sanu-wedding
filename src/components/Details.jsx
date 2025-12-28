@@ -11,7 +11,7 @@ export default function ReceptionDetails() {
     },
     {
       title: "TIME",
-      value: "11:00 AM",
+      value: "11:30 AM",
       subValue: "9:00 PM",
       icon: <Clock size={20} className="text-amber-600" />,
     },
