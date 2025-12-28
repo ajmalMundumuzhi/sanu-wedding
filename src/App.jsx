@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Groom from './components/Groom';
 import Calender from './components/Calender';
 import Location from './components/Location';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -16,16 +17,21 @@ function App() {
         <section id="hero" className="max-h-screen">
           <Hero />
         </section>
-        <section id="location" className=" py-20">
-          <Location />
-        </section>
 
-        <section id="groom" className="min-h-screen py-20">
+        <section id="groom" className="max-h-screen py-15">
           <Groom />
         </section>
 
-        <section id="calendar" className="min-h-screen py-20">
+        <section id="location" className=" py-10">
+          <Location />
+        </section>
+
+        <section id="calendar" className="">
           <Calender />
+        </section>
+
+        <section className='mb-2 mt-2'>
+          <Footer />
         </section>
 
       </div>
