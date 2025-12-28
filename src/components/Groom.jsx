@@ -16,7 +16,7 @@ export default function Groom() {
         <div className="absolute inset-0 z-0">
           {/* REPLACE SRC: Use the actual photo of hands/rings here */}
           <img 
-            src="/public/images/download.jpg" 
+            src="/images/download.jpg" 
             alt="Couple Hands" 
             className="w-full h-full object-cover grayscale brightness-110 transform group-hover:scale-105 transition-transform duration-1000"
           />
