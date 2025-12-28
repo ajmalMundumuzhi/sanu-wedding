@@ -5,6 +5,7 @@ import Groom from './components/Groom';
 import Calender from './components/Calender';
 import Location from './components/Location';
 import Footer from './components/Footer';
+import ReceptionDetails from './components/Details';
 
 function App() {
   return (
@@ -20,6 +21,10 @@ function App() {
 
         <section id="groom" className="max-h-screen py-15">
           <Groom />
+        </section>
+
+        <section>
+          <ReceptionDetails />
         </section>
 
         <section id="location" className=" py-10">
