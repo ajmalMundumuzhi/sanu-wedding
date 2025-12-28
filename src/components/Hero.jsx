@@ -8,7 +8,7 @@ export default function Hero() {
             {/* Top Section: Ornament and Title */}
             <div className=" flex flex-col items-center">
                 <div>
-                    <img src="/public/images/pngegg (7).png" className="h-56 md:h-80" alt="Ornament" />
+                    <img src="/images/pngegg (7).png" className="h-56 md:h-80" alt="Ornament" />
                 </div>
                 <h1 className="text-center text-5xl md:text-7xl font-serif ">
                     Wedding Reception
